@@ -1,0 +1,12 @@
+﻿enter_add_clothes_by_brand,按品牌添加,0
+enter_add_clothes_by_scan,按Scan添加,0
+add_cloth_by_brand_done,按品牌添加完成,0
+add_cloth_by_scan_done,按Scan添加完成,0
+home_tutorial_clicked,Tutorial的点击,0
+wardrobe_empty_shown,Wardrobe里Gotit页面曝光,0
+wardrobe_empty_got_it_click,Wardrobe里Gotit页面点击,0
+wardrobe_clothes_detail,Wardrobe衣服点击,0
+enter_outfit_page,Wardrobe Outfits点击,0
+explore_fitting_room,Explore里Fitting Room,0
+explore_deals,Explore里Deals,0
+explore_favourite,Explore里Favourites,0

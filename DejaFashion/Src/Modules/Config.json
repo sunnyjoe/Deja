@@ -1,0 +1,1293 @@
+{
+    "data": {
+        "cloth_color": [{
+                        "id": 231,
+                        "weight": 14,
+                        "name": "Yellow",
+                        "color_value": "f7ef47"
+                        }, {
+                        "id": 230,
+                        "weight": 13,
+                        "name": "Orange",
+                        "color_value": "ecb922"
+                        }, {
+                        "id": 229,
+                        "weight": 12,
+                        "name": "Nude",
+                        "color_value": "f7e6ce"
+                        }, {
+                        "id": 227,
+                        "weight": 11,
+                        "name": "Pink",
+                        "color_value": "e7a1a1"
+                        }, {
+                        "id": 223,
+                        "weight": 10,
+                        "name": "Red",
+                        "color_value": "b50001"
+                        }, {
+                        "id": 248,
+                        "weight": 9,
+                        "name": "Brown",
+                        "color_value": "5a3e31"
+                        }, {
+                        "id": 245,
+                        "weight": 8,
+                        "name": "Purple",
+                        "color_value": "8000e2"
+                        }, {
+                        "id": 242,
+                        "weight": 7,
+                        "name": "Blue",
+                        "color_value": "4f70d7"
+                        }, {
+                        "id": 237,
+                        "weight": 5,
+                        "name": "Green",
+                        "color_value": "70a53f"
+                        }, {
+                        "id": 254,
+                        "weight": 4,
+                        "name": "Black",
+                        "color_value": "000000"
+                        }, {
+                        "id": 253,
+                        "weight": 2,
+                        "name": "Grey",
+                        "color_value": "999999"
+                        }, {
+                        "id": 255,
+                        "weight": 1,
+                        "name": "White",
+                        "color_value": "ffffff"
+                        }],
+        "feedback_email": "hello@deja.me",
+        "interval": {
+            "scroll_banner": 10
+        },
+        "offline_events": [{
+                           "id": "invite_friend",
+                           "text_0": "",
+                           "text_1": "",
+                           "image_url": "http://d1h06o39vyn1mi.cloudfront.net/product/upload/c9/89/c989e7649d7ab989664ac0ab5f49ec41",
+                           "text_2": "",
+                           "jump_url": "dejafashion://web/http://m.deja.me/dejafm/?v4_1_3#/invite/"
+                           }, {
+                           "id": "top_shop",
+                           "promotion_alert_title": "Deals for Topshop",
+                           "image_url": "http://d1h06o39vyn1mi.cloudfront.net/product/upload/fc/3b/fc3b3482f41c66b4eaad41eb2f5b57d8",
+                           "promotion_alert_button_text": "View Deals",
+                           "jump_url": "dejafashion://web/http://m.deja.me/dejafm/?v4_1_3#/topshop/",
+                           "promotion_alert_text": "Save $5 on any TOPSHOP purchases storewide",
+                           "brand_id": "10",
+                           "promotion_text": "Save $5 storewide. Learn More >"
+                           }, {
+                           "id": "mash_up",
+                           "promotion_alert_title": "Deals for Mash-up",
+                           "image_url": "http://d1h06o39vyn1mi.cloudfront.net/product/upload/82/42/8242abfdc954e1a44dc907752f295d7c",
+                           "promotion_alert_button_text": "View Deals",
+                           "jump_url": "dejafashion://web/http://m.deja.me/dejafm/?v4_1_3#/mashup/",
+                           "promotion_alert_text": "Enjoy 20% off at all mash-up online purchases",
+                           "brand_id": "2001",
+                           "promotion_text": "Enjoy 20% off. Learn More >"
+                           }],
+        "patch_info": {
+            "4.0": {
+                "url": "http://m.deja.me/lua_patch/4_0_1606192055.js"
+            },
+            "4.1.1": {
+                "url": "http://m.deja.me/lua_patch/4_1_1607051145.js"
+            },
+            "4.1": {
+                "url": "http://m.deja.me/lua_patch/4_1_1607051145.js"
+            },
+            "4.1.10": {
+                "url": "http://m.deja.me/lua_patch/4_1_10_1609011322.js"
+            }
+        },
+        "celebrity_face": [],
+        "find_cloth_banner": [{
+                              "id": "Influencer",
+                              "jump_url": "dejafashion://web/http://m.deja.me/dejafm/?v4_1_3#/celebritylist/",
+                              "image_url": "http://d1h06o39vyn1mi.cloudfront.net/product/upload/64/0d/640d82db74f860e6ae8a35bcd0ea78ee"
+                              }, {
+                              "id": "invite_friend",
+                              "text_0": "",
+                              "text_1": "",
+                              "image_url": "http://d1h06o39vyn1mi.cloudfront.net/product/upload/c9/89/c989e7649d7ab989664ac0ab5f49ec41",
+                              "text_2": "",
+                              "jump_url": "dejafashion://web/http://m.deja.me/dejafm/?v4_1_3#/invite/"
+                              }, {
+                              "id": "top_shop",
+                              "promotion_alert_title": "Deals for Topshop",
+                              "image_url": "http://d1h06o39vyn1mi.cloudfront.net/product/upload/fc/3b/fc3b3482f41c66b4eaad41eb2f5b57d8",
+                              "promotion_alert_button_text": "View Deals",
+                              "jump_url": "dejafashion://web/http://m.deja.me/dejafm/?v4_1_3#/topshop/",
+                              "promotion_alert_text": "Save $5 on any TOPSHOP purchases storewide",
+                              "brand_id": "10",
+                              "promotion_text": "Save $5 storewide. Learn More >"
+                              }, {
+                              "id": "mash_up",
+                              "promotion_alert_title": "Deals for Mash-up",
+                              "image_url": "http://d1h06o39vyn1mi.cloudfront.net/product/upload/82/42/8242abfdc954e1a44dc907752f295d7c",
+                              "promotion_alert_button_text": "View Deals",
+                              "jump_url": "dejafashion://web/http://m.deja.me/dejafm/?v4_1_3#/mashup/",
+                              "promotion_alert_text": "Enjoy 20% off at all mash-up online purchases",
+                              "brand_id": "2001",
+                              "promotion_text": "Enjoy 20% off. Learn More >"
+                              }],
+        "purpose": [{
+                    "name": "Please choose one",
+                    "id": "0"
+                    }, {
+                    "name": "Get me the best deals",
+                    "id": "1"
+                    }, {
+                    "name": "Show me the new arrivals",
+                    "id": "2"
+                    }, {
+                    "name": "Locate items near me",
+                    "id": "3"
+                    }, {
+                    "name": "Style me for an occasion",
+                    "id": "4",
+                    "sub_purpose": [{
+                                    "name": "Casual Event",
+                                    "id": "65"
+                                    }, {
+                                    "name": "Black Tie Event",
+                                    "id": "66"
+                                    }, {
+                                    "name": "Party",
+                                    "id": "69"
+                                    }, {
+                                    "name": "Meet The Parents",
+                                    "id": "73"
+                                    }, {
+                                    "name": "Outing With Friends",
+                                    "id": "74"
+                                    }, {
+                                    "name": "Date Night",
+                                    "id": "75"
+                                    }, {
+                                    "name": "Daily Work",
+                                    "id": "76"
+                                    }, {
+                                    "name": "Dressed-down Friday",
+                                    "id": "77"
+                                    }, {
+                                    "name": "Beach Outing",
+                                    "id": "79"
+                                    }, {
+                                    "name": "Picnic",
+                                    "id": "80"
+                                    }, {
+                                    "name": "Wedding Ceremony (Formal)",
+                                    "id": "82"
+                                    }, {
+                                    "name": "Wedding Ceremony (Casual)",
+                                    "id": "83"
+                                    }, {
+                                    "name": "Sports Activities",
+                                    "id": "85"
+                                    }, {
+                                    "name": "Cocktail Party",
+                                    "id": "694"
+                                    }, {
+                                    "name": "Seminars",
+                                    "id": "698"
+                                    }, {
+                                    "name": "Corporate Meetings",
+                                    "id": "699"
+                                    }]
+                    }, {
+                    "name": "Find the best body fit…",
+                    "id": "5",
+                    "sub_purpose": [{
+                                    "name": "Small Bust",
+                                    "id": "329"
+                                    }, {
+                                    "name": "Large Bust",
+                                    "id": "330"
+                                    }, {
+                                    "name": "Narrow Shoulders",
+                                    "id": "331"
+                                    }, {
+                                    "name": "Broad Shoulders",
+                                    "id": "332"
+                                    }, {
+                                    "name": "Wide Hips",
+                                    "id": "333"
+                                    }, {
+                                    "name": "Big Arms",
+                                    "id": "334"
+                                    }, {
+                                    "name": "Short Arms",
+                                    "id": "335"
+                                    }, {
+                                    "name": "Short Legs",
+                                    "id": "336"
+                                    }, {
+                                    "name": "Big Thighs",
+                                    "id": "337"
+                                    }, {
+                                    "name": "Small Hips",
+                                    "id": "346"
+                                    }, {
+                                    "name": "Tummy",
+                                    "id": "347"
+                                    }, {
+                                    "name": "Long Arms",
+                                    "id": "701"
+                                    }, {
+                                    "name": "Long Legs",
+                                    "id": "702"
+                                    }]
+                    }],
+        "product_brand": [{
+                          "status": 1,
+                          "id": "72",
+                          "weight": 998,
+                          "name": "H&M",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/hm_2.jpg"
+                          }, {
+                          "status": 1,
+                          "id": "73",
+                          "weight": 996,
+                          "name": "Mango",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/mango_2.jpg"
+                          }, {
+                          "status": 1,
+                          "id": "74",
+                          "weight": 1000,
+                          "name": "Zara",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/zara_2.jpg"
+                          }, {
+                          "status": 1,
+                          "id": "10",
+                          "weight": 999,
+                          "name": "Topshop",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/topshop_2.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "76",
+                          "weight": 995,
+                          "name": "Gap",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/gap_2.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "12",
+                          "weight": 99,
+                          "name": "MDS Collections",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/mds_2.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "79",
+                          "weight": 94,
+                          "name": "Cos",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/cos_2.jpg"
+                          }, {
+                          "status": 1,
+                          "id": "80",
+                          "weight": 997,
+                          "name": "Forever 21",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/forever_21_2.png"
+                          }, {
+                          "status": 0,
+                          "id": "2001",
+                          "weight": 0,
+                          "name": "Mash-up",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/mash_up.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "81",
+                          "weight": 92,
+                          "name": "Warehouse",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/warehouse_2.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "2002",
+                          "weight": 0,
+                          "name": "Pencilpine",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/pencilpine.png"
+                          }, {
+                          "status": 0,
+                          "id": "83",
+                          "weight": 90,
+                          "name": "Desigual",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/desigual_2.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "84",
+                          "weight": 89,
+                          "name": "Guess",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/guess_2.jpg"
+                          }, {
+                          "status": 1,
+                          "id": "86",
+                          "weight": 995,
+                          "name": "Cotton On",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/cotton_on_2.png"
+                          }, {
+                          "status": 1,
+                          "id": "87",
+                          "weight": 993,
+                          "name": "Factorie",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/factorie_2.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "89",
+                          "weight": 86,
+                          "name": "Esprit",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/esprit_2.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "90",
+                          "weight": 85,
+                          "name": "Pull & Bear",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/pullbear_2.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "91",
+                          "weight": 84,
+                          "name": "Forever New",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/forever_new_2.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "92",
+                          "weight": 83,
+                          "name": "Levis",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/levis_2.png"
+                          }, {
+                          "status": 0,
+                          "id": "93",
+                          "weight": 82,
+                          "name": "Lacoste",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/lacoste_2.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "94",
+                          "weight": 81,
+                          "name": "Marks & Spencer",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/marks_and_spencer_2.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "97",
+                          "weight": 78,
+                          "name": "Marella",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/marella_2.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "98",
+                          "weight": 77,
+                          "name": "Promod",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/promod_2.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "100",
+                          "weight": 75,
+                          "name": "American Eagle",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/american_eagle_2.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "102",
+                          "weight": 73,
+                          "name": "Osmose",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/osmose_2.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "104",
+                          "weight": 71,
+                          "name": "Ted Baker",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/ted_baker_2.png"
+                          }, {
+                          "status": 0,
+                          "id": "106",
+                          "weight": 0,
+                          "name": "Bershka",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/bershka.png"
+                          }, {
+                          "status": 0,
+                          "id": "107",
+                          "weight": 0,
+                          "name": "Massimo Dutti",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/massimo_dutti.jpg"
+                          }, {
+                          "status": 0,
+                          "id": "55",
+                          "weight": 96,
+                          "name": "The Editor's Market",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/the_editors_market_2.jpg"
+                          }, {
+                          "status": 1,
+                          "id": "56",
+                          "weight": 994,
+                          "name": "Uniqlo",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/uniqlo_2.png"
+                          }],
+        "category_filter": {
+            "filter_conditions": [{
+                                  "filter_values": [{
+                                                    "filter_value_name": "Mini",
+                                                    "filter_value_id": "593"
+                                                    }, {
+                                                    "filter_value_name": "Midi",
+                                                    "filter_value_id": "594"
+                                                    }, {
+                                                    "filter_value_name": "Maxi",
+                                                    "filter_value_id": "595"
+                                                    }],
+                                  "condition_id": "59201",
+                                  "condition_name": "Length"
+                                  }, {
+                                  "filter_values": [{
+                                                    "filter_value_name": "Brown",
+                                                    "filter_value_id": "248"
+                                                    }, {
+                                                    "filter_value_name": "Purple",
+                                                    "filter_value_id": "245"
+                                                    }, {
+                                                    "filter_value_name": "Multi",
+                                                    "filter_value_id": "408"
+                                                    }, {
+                                                    "filter_value_name": "White",
+                                                    "filter_value_id": "255"
+                                                    }, {
+                                                    "filter_value_name": "Black",
+                                                    "filter_value_id": "254"
+                                                    }, {
+                                                    "filter_value_name": "Grey",
+                                                    "filter_value_id": "253"
+                                                    }, {
+                                                    "filter_value_name": "Blue",
+                                                    "filter_value_id": "242"
+                                                    }, {
+                                                    "filter_value_name": "Red",
+                                                    "filter_value_id": "223"
+                                                    }, {
+                                                    "filter_value_name": "Pink",
+                                                    "filter_value_id": "227"
+                                                    }, {
+                                                    "filter_value_name": "Nude",
+                                                    "filter_value_id": "229"
+                                                    }, {
+                                                    "filter_value_name": "Orange",
+                                                    "filter_value_id": "230"
+                                                    }, {
+                                                    "filter_value_name": "Yellow",
+                                                    "filter_value_id": "231"
+                                                    }, {
+                                                    "filter_value_name": "Green",
+                                                    "filter_value_id": "237"
+                                                    }],
+                                  "condition_id": "2",
+                                  "condition_name": "Color"
+                                  }, {
+                                  "filter_values": [{
+                                                    "filter_value_name": "Mini",
+                                                    "filter_value_id": "600"
+                                                    }, {
+                                                    "filter_value_name": "Maxi",
+                                                    "filter_value_id": "602"
+                                                    }, {
+                                                    "filter_value_name": "Midi",
+                                                    "filter_value_id": "601"
+                                                    }],
+                                  "condition_id": "59202",
+                                  "condition_name": "Length"
+                                  }, {
+                                  "filter_values": [{
+                                                    "filter_value_name": "Long",
+                                                    "filter_value_id": "607"
+                                                    }, {
+                                                    "filter_value_name": "Short",
+                                                    "filter_value_id": "608"
+                                                    }, {
+                                                    "filter_value_name": "Cropped",
+                                                    "filter_value_id": "609"
+                                                    }],
+                                  "condition_id": "59203",
+                                  "condition_name": "Length"
+                                  }, {
+                                  "filter_values": [{
+                                                    "filter_value_name": "Checks",
+                                                    "filter_value_id": "45"
+                                                    }, {
+                                                    "filter_value_name": "Animal Print",
+                                                    "filter_value_id": "638"
+                                                    }, {
+                                                    "filter_value_name": "Plaids",
+                                                    "filter_value_id": "46"
+                                                    }, {
+                                                    "filter_value_name": "Floral",
+                                                    "filter_value_id": "40"
+                                                    }, {
+                                                    "filter_value_name": "Polka Dots",
+                                                    "filter_value_id": "47"
+                                                    }, {
+                                                    "filter_value_name": "Graphic",
+                                                    "filter_value_id": "41"
+                                                    }, {
+                                                    "filter_value_name": "Embellishment",
+                                                    "filter_value_id": "491"
+                                                    }, {
+                                                    "filter_value_name": "Colour-blocking",
+                                                    "filter_value_id": "54"
+                                                    }, {
+                                                    "filter_value_name": "Stripes",
+                                                    "filter_value_id": "52"
+                                                    }, {
+                                                    "filter_value_name": "Lace",
+                                                    "filter_value_id": "501"
+                                                    }, {
+                                                    "filter_value_name": "No Pattern",
+                                                    "filter_value_id": "700"
+                                                    }],
+                                  "condition_id": "4",
+                                  "condition_name": "Pattern"
+                                  }, {
+                                  "filter_values": [{
+                                                    "filter_value_name": "Long",
+                                                    "filter_value_id": "610"
+                                                    }, {
+                                                    "filter_value_name": "Cropped",
+                                                    "filter_value_id": "611"
+                                                    }, {
+                                                    "filter_value_name": "Regular",
+                                                    "filter_value_id": "612"
+                                                    }],
+                                  "condition_id": "59204",
+                                  "condition_name": "Length"
+                                  }, {
+                                  "filter_values": [{
+                                                    "filter_value_name": "Cropped",
+                                                    "filter_value_id": "614"
+                                                    }, {
+                                                    "filter_value_name": "Regular",
+                                                    "filter_value_id": "615"
+                                                    }, {
+                                                    "filter_value_name": "Long",
+                                                    "filter_value_id": "613"
+                                                    }],
+                                  "condition_id": "59205",
+                                  "condition_name": "Length"
+                                  }, {
+                                  "filter_values": [{
+                                                    "filter_value_name": "Low-Waisted",
+                                                    "filter_value_id": "619"
+                                                    }, {
+                                                    "filter_value_name": "High-Waisted",
+                                                    "filter_value_id": "617"
+                                                    }, {
+                                                    "filter_value_name": "Mid-Waisted",
+                                                    "filter_value_id": "618"
+                                                    }],
+                                  "condition_id": "616",
+                                  "condition_name": "Waist"
+                                  }, {
+                                  "filter_values": [{
+                                                    "filter_value_name": "Denim",
+                                                    "filter_value_id": "590"
+                                                    }, {
+                                                    "filter_value_name": "Sheer",
+                                                    "filter_value_id": "591"
+                                                    }, {
+                                                    "filter_value_name": "Leather",
+                                                    "filter_value_id": "589"
+                                                    }],
+                                  "condition_id": "588",
+                                  "condition_name": "Texture"
+                                  }, {
+                                  "filter_values": [{
+                                                    "filter_value_name": "Fitted",
+                                                    "filter_value_id": "621"
+                                                    }, {
+                                                    "filter_value_name": "Regular",
+                                                    "filter_value_id": "622"
+                                                    }, {
+                                                    "filter_value_name": "Oversized",
+                                                    "filter_value_id": "623"
+                                                    }],
+                                  "condition_id": "62001",
+                                  "condition_name": "Fitting"
+                                  }, {
+                                  "filter_values": [{
+                                                    "filter_value_name": "Three-Quarter",
+                                                    "filter_value_id": "662"
+                                                    }, {
+                                                    "filter_value_name": "Sleeveless",
+                                                    "filter_value_id": "659"
+                                                    }, {
+                                                    "filter_value_name": "Short",
+                                                    "filter_value_id": "660"
+                                                    }, {
+                                                    "filter_value_name": "Long",
+                                                    "filter_value_id": "663"
+                                                    }],
+                                  "condition_id": "658",
+                                  "condition_name": "Sleeve Length"
+                                  }, {
+                                  "filter_values": [{
+                                                    "filter_value_name": "Loose-fit",
+                                                    "filter_value_id": "626"
+                                                    }, {
+                                                    "filter_value_name": "Regular",
+                                                    "filter_value_id": "625"
+                                                    }, {
+                                                    "filter_value_name": "Fitted",
+                                                    "filter_value_id": "624"
+                                                    }],
+                                  "condition_id": "62002",
+                                  "condition_name": "Fitting"
+                                  }, {
+                                  "filter_values": [{
+                                                    "filter_value_name": "Skinny",
+                                                    "filter_value_id": "629"
+                                                    }, {
+                                                    "filter_value_name": "Tapered",
+                                                    "filter_value_id": "630"
+                                                    }, {
+                                                    "filter_value_name": "Loose-fit",
+                                                    "filter_value_id": "631"
+                                                    }, {
+                                                    "filter_value_name": "Regular",
+                                                    "filter_value_id": "627"
+                                                    }, {
+                                                    "filter_value_name": "Straight",
+                                                    "filter_value_id": "628"
+                                                    }],
+                                  "condition_id": "62003",
+                                  "condition_name": "Fitting"
+                                  }, {
+                                  "filter_values": [{
+                                                    "filter_value_name": "Oversized",
+                                                    "filter_value_id": "634"
+                                                    }, {
+                                                    "filter_value_name": "Fitted",
+                                                    "filter_value_id": "632"
+                                                    }, {
+                                                    "filter_value_name": "Regular",
+                                                    "filter_value_id": "633"
+                                                    }],
+                                  "condition_id": "62004",
+                                  "condition_name": "Fitting"
+                                  }, {
+                                  "filter_values": [{
+                                                    "filter_value_name": "Fitted",
+                                                    "filter_value_id": "635"
+                                                    }, {
+                                                    "filter_value_name": "Regular",
+                                                    "filter_value_id": "636"
+                                                    }, {
+                                                    "filter_value_name": "Oversized",
+                                                    "filter_value_id": "637"
+                                                    }],
+                                  "condition_id": "62005",
+                                  "condition_name": "Fitting"
+                                  }, {
+                                  "filter_values": [{
+                                                    "filter_value_name": "Round Neck",
+                                                    "filter_value_id": "640"
+                                                    }, {
+                                                    "filter_value_name": "Spaghetti",
+                                                    "filter_value_id": "644"
+                                                    }, {
+                                                    "filter_value_name": "V-Neck",
+                                                    "filter_value_id": "643"
+                                                    }, {
+                                                    "filter_value_name": "Halter",
+                                                    "filter_value_id": "653"
+                                                    }, {
+                                                    "filter_value_name": "Off-Shoulder",
+                                                    "filter_value_id": "656"
+                                                    }, {
+                                                    "filter_value_name": "Asymmetric",
+                                                    "filter_value_id": "652"
+                                                    }, {
+                                                    "filter_value_name": "Tube",
+                                                    "filter_value_id": "651"
+                                                    }, {
+                                                    "filter_value_name": "Shirt Collar",
+                                                    "filter_value_id": "650"
+                                                    }, {
+                                                    "filter_value_name": "Sweetheart",
+                                                    "filter_value_id": "649"
+                                                    }, {
+                                                    "filter_value_name": "Draped",
+                                                    "filter_value_id": "654"
+                                                    }, {
+                                                    "filter_value_name": "Toga",
+                                                    "filter_value_id": "655"
+                                                    }, {
+                                                    "filter_value_name": "Turtleneck",
+                                                    "filter_value_id": "657"
+                                                    }],
+                                  "condition_id": "639",
+                                  "condition_name": "Neckline"
+                                  }],
+            "categories": [{
+                           "category_name": "Dresses",
+                           "category_id": "17",
+                           "sub_categories": [{
+                                              "sub_category_id": "495",
+                                              "sub_category_name": "Bodycon",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/bodycon_dress.png",
+                                              "filter_conditions": ["59201", "658", "639", "62001"]
+                                              }, {
+                                              "sub_category_id": "498",
+                                              "sub_category_name": "Flared",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/flared_dress.png",
+                                              "filter_conditions": ["59201", "658", "639", "62001"]
+                                              }, {
+                                              "sub_category_id": "499",
+                                              "sub_category_name": "A-Line",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/aline_dress.png",
+                                              "filter_conditions": ["59201", "658", "639", "62001"]
+                                              }, {
+                                              "sub_category_id": "569",
+                                              "sub_category_name": "Shirt Dress",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/shirt_dress.png",
+                                              "filter_conditions": ["59201", "658", "639", "62001"]
+                                              }, {
+                                              "sub_category_id": "570",
+                                              "sub_category_name": "Pleated",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/pleated_dress.png",
+                                              "filter_conditions": ["59201", "658", "639", "62001"]
+                                              }, {
+                                              "sub_category_id": "571",
+                                              "sub_category_name": "Tiered",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/tiered.png",
+                                              "filter_conditions": ["59201", "658", "639", "62001"]
+                                              }, {
+                                              "sub_category_id": "573",
+                                              "sub_category_name": "Slit",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/slit_dress.png",
+                                              "filter_conditions": ["59201", "658", "639", "62001"]
+                                              }, {
+                                              "sub_category_id": "678",
+                                              "sub_category_name": "Shift Dress",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/shift_dress.png",
+                                              "filter_conditions": ["59201", "658", "639", "62001"]
+                                              }, {
+                                              "sub_category_id": "679",
+                                              "sub_category_name": "Others (Dresses)",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/others.png",
+                                              "filter_conditions": ["59201", "658", "639", "62001"]
+                                              }]
+                           }, {
+                           "category_name": "Tops",
+                           "category_id": "18",
+                           "sub_categories": [{
+                                              "sub_category_id": "193",
+                                              "sub_category_name": "Blouse",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/blouse.png",
+                                              "filter_conditions": ["59204", "658", "639", "62004"]
+                                              }, {
+                                              "sub_category_id": "194",
+                                              "sub_category_name": "Shirt",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/shirt.png",
+                                              "filter_conditions": ["59204", "658", "639", "62004"]
+                                              }, {
+                                              "sub_category_id": "195",
+                                              "sub_category_name": "T-Shirt",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/tshirt.png",
+                                              "filter_conditions": ["59204", "658", "639", "62004"]
+                                              }, {
+                                              "sub_category_id": "197",
+                                              "sub_category_name": "Tunic",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/tunic.png",
+                                              "filter_conditions": ["658", "639", "62004"]
+                                              }, {
+                                              "sub_category_id": "199",
+                                              "sub_category_name": "Spaghetti-Strap Top",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/spaghetti_top.png",
+                                              "filter_conditions": ["59204", "62004"]
+                                              }, {
+                                              "sub_category_id": "200",
+                                              "sub_category_name": "Cropped Top",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/cropped_top.png",
+                                              "filter_conditions": ["658", "639", "62004"]
+                                              }, {
+                                              "sub_category_id": "574",
+                                              "sub_category_name": "Tank Top",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/tanktop.png",
+                                              "filter_conditions": ["59204", "639", "62004", "588"]
+                                              }, {
+                                              "sub_category_id": "680",
+                                              "sub_category_name": "Others (Tops)",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/others.png",
+                                              "filter_conditions": ["59204", "658", "639", "62004", "588"]
+                                              }]
+                           }, {
+                           "category_name": "Skirts",
+                           "category_id": "19",
+                           "sub_categories": [{
+                                              "sub_category_id": "202",
+                                              "sub_category_name": "Straight",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/straight.png",
+                                              "filter_conditions": ["59202", "616", "62002"]
+                                              }, {
+                                              "sub_category_id": "203",
+                                              "sub_category_name": "Pencil",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/pencil.png",
+                                              "filter_conditions": ["59202", "616", "62002"]
+                                              }, {
+                                              "sub_category_id": "204",
+                                              "sub_category_name": "A-Line",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/aline_skirt.png",
+                                              "filter_conditions": ["59202", "616", "62002"]
+                                              }, {
+                                              "sub_category_id": "205",
+                                              "sub_category_name": "Pleated",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/pleated_skirt.png",
+                                              "filter_conditions": ["59202", "616", "62002"]
+                                              }, {
+                                              "sub_category_id": "206",
+                                              "sub_category_name": "Tiered",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/tiered_skirt.png",
+                                              "filter_conditions": ["59202", "616", "62002"]
+                                              }, {
+                                              "sub_category_id": "207",
+                                              "sub_category_name": "Flared",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/flared_skirt.png",
+                                              "filter_conditions": ["59202", "616", "62002"]
+                                              }, {
+                                              "sub_category_id": "575",
+                                              "sub_category_name": "Bodycon",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/bodycon_skirt.png",
+                                              "filter_conditions": ["59202", "616"]
+                                              }, {
+                                              "sub_category_id": "576",
+                                              "sub_category_name": "Slit",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/slit_skirt.png",
+                                              "filter_conditions": ["59202", "616", "62002"]
+                                              }, {
+                                              "sub_category_id": "682",
+                                              "sub_category_name": "Others (Skirts)",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/others.png",
+                                              "filter_conditions": ["59202", "616", "62002"]
+                                              }]
+                           }, {
+                           "category_name": "Outerwear",
+                           "category_id": "20",
+                           "sub_categories": [{
+                                              "sub_category_id": "208",
+                                              "sub_category_name": "Jacket",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/jacket.png",
+                                              "filter_conditions": ["59205", "658", "639", "62005"]
+                                              }, {
+                                              "sub_category_id": "211",
+                                              "sub_category_name": "Coat",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/coat.png",
+                                              "filter_conditions": ["59205", "658", "639", "62005"]
+                                              }, {
+                                              "sub_category_id": "212",
+                                              "sub_category_name": "Blazer",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/blazer.png",
+                                              "filter_conditions": ["59205", "658", "639", "62005"]
+                                              }, {
+                                              "sub_category_id": "214",
+                                              "sub_category_name": "Down Jacket",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/downjacket.png",
+                                              "filter_conditions": ["59205", "658", "639", "62005"]
+                                              }, {
+                                              "sub_category_id": "577",
+                                              "sub_category_name": "Vest",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/vest.png",
+                                              "filter_conditions": ["59205", "639", "62005"]
+                                              }, {
+                                              "sub_category_id": "578",
+                                              "sub_category_name": "Sweatshirts",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/sweatshirt.png",
+                                              "filter_conditions": ["59205", "658", "639", "62005"]
+                                              }, {
+                                              "sub_category_id": "579",
+                                              "sub_category_name": "Knitwear",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/knitwear.png",
+                                              "filter_conditions": ["59205", "658", "639", "62005"]
+                                              }, {
+                                              "sub_category_id": "580",
+                                              "sub_category_name": "Cardigan",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/cardigan.png",
+                                              "filter_conditions": ["59205", "658", "639", "62005"]
+                                              }, {
+                                              "sub_category_id": "683",
+                                              "sub_category_name": "Others (Outerwear)",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/others.png",
+                                              "filter_conditions": ["59205", "658", "639", "62005"]
+                                              }]
+                           }, {
+                           "category_name": "Bottoms",
+                           "category_id": "21",
+                           "sub_categories": [{
+                                              "sub_category_id": "488",
+                                              "sub_category_name": "Shorts",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/shorts.png",
+                                              "filter_conditions": ["616", "62003"]
+                                              }, {
+                                              "sub_category_id": "560",
+                                              "sub_category_name": "Culottes",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/culottes.png",
+                                              "filter_conditions": ["59203", "616", "62003"]
+                                              }, {
+                                              "sub_category_id": "581",
+                                              "sub_category_name": "Joggers",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/joggers.png",
+                                              "filter_conditions": ["59203", "616", "62003"]
+                                              }, {
+                                              "sub_category_id": "582",
+                                              "sub_category_name": "Pants",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/pants.png",
+                                              "filter_conditions": ["59203", "616", "62003"]
+                                              }, {
+                                              "sub_category_id": "583",
+                                              "sub_category_name": "Jeans",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/jeans.png",
+                                              "filter_conditions": ["59203", "616", "62003"]
+                                              }, {
+                                              "sub_category_id": "584",
+                                              "sub_category_name": "Leggings",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/leggins.png",
+                                              "filter_conditions": ["59203", "616"]
+                                              }, {
+                                              "sub_category_id": "684",
+                                              "sub_category_name": "Others (Bottoms)",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/others.png",
+                                              "filter_conditions": ["59203", "616", "62003"]
+                                              }]
+                           }, {
+                           "category_name": "One-Piece",
+                           "category_id": "585",
+                           "sub_categories": [{
+                                              "sub_category_id": "586",
+                                              "sub_category_name": "Playsuits",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/playsuit.png",
+                                              "filter_conditions": ["658", "639"]
+                                              }, {
+                                              "sub_category_id": "587",
+                                              "sub_category_name": "Jumpsuits",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/jumpsuit.png",
+                                              "filter_conditions": ["658", "639"]
+                                              }, {
+                                              "sub_category_id": "685",
+                                              "sub_category_name": "Others (One-piece)",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/others.png",
+                                              "filter_conditions": ["658", "639"]
+                                              }]
+                           }, {
+                           "category_name": "Shoes",
+                           "category_id": "23",
+                           "sub_categories": [{
+                                              "sub_category_id": "505",
+                                              "sub_category_name": "Heels",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/heels.png",
+                                              "filter_conditions": []
+                                              }, {
+                                              "sub_category_id": "506",
+                                              "sub_category_name": "Wedges",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/wedges.png",
+                                              "filter_conditions": []
+                                              }, {
+                                              "sub_category_id": "507",
+                                              "sub_category_name": "Flats",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/flats.png",
+                                              "filter_conditions": []
+                                              }, {
+                                              "sub_category_id": "508",
+                                              "sub_category_name": "Sneakers",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/sneakers.png",
+                                              "filter_conditions": []
+                                              }, {
+                                              "sub_category_id": "509",
+                                              "sub_category_name": "Loafers",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/loafers.png",
+                                              "filter_conditions": []
+                                              }, {
+                                              "sub_category_id": "510",
+                                              "sub_category_name": "Sandals",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/sandals.png",
+                                              "filter_conditions": []
+                                              }, {
+                                              "sub_category_id": "511",
+                                              "sub_category_name": "Boots",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/boots.png",
+                                              "filter_conditions": []
+                                              }, {
+                                              "sub_category_id": "512",
+                                              "sub_category_name": "Dress Shoes",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/dressshoes.png",
+                                              "filter_conditions": []
+                                              }, {
+                                              "sub_category_id": "513",
+                                              "sub_category_name": "Slippers",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/slippers.png",
+                                              "filter_conditions": []
+                                              }, {
+                                              "sub_category_id": "515",
+                                              "sub_category_name": "Flatforms",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/flatforms.png",
+                                              "filter_conditions": []
+                                              }]
+                           }, {
+                           "category_name": "Bags",
+                           "category_id": "24",
+                           "sub_categories": [{
+                                              "sub_category_id": "522",
+                                              "sub_category_name": "Shoulder Bags",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/shouderbag.png",
+                                              "filter_conditions": []
+                                              }, {
+                                              "sub_category_id": "523",
+                                              "sub_category_name": "Tote Bags",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/totebag.png",
+                                              "filter_conditions": []
+                                              }, {
+                                              "sub_category_id": "524",
+                                              "sub_category_name": "Backpacks",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/backpack.png",
+                                              "filter_conditions": []
+                                              }, {
+                                              "sub_category_id": "527",
+                                              "sub_category_name": "Holdalls",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/holdall.png",
+                                              "filter_conditions": []
+                                              }, {
+                                              "sub_category_id": "529",
+                                              "sub_category_name": "Handbags",
+                                              "sub_category_image": "http://d1h06o39vyn1mi.cloudfront.net/product/config/sub_category/handbag.png",
+                                              "filter_conditions": []
+                                              }]
+                           }]
+        },
+        "sort_by_rules": [{
+                          "name": "Recommendation",
+                          "value": 0
+                          }, {
+                          "name": "Newest",
+                          "value": 1
+                          }, {
+                          "name": "Price - Low to High",
+                          "value": 2
+                          }, {
+                          "name": "Price - High to Low",
+                          "value": 3
+                          }],
+        "style_refine_condition": [{
+                                   "filter_values": [{
+                                                     "filter_value_name": "Black Tie Event",
+                                                     "icon": "http://d1h06o39vyn1mi.cloudfront.net/product/config/occasion/blacktie_big.png",
+                                                     "filter_value_id": "66"
+                                                     }, {
+                                                     "filter_value_name": "Weddings",
+                                                     "icon": "http://d1h06o39vyn1mi.cloudfront.net/product/config/occasion/formalwedding_big.png",
+                                                     "filter_value_id": "82"
+                                                     }, {
+                                                     "filter_value_name": "Cocktail Party",
+                                                     "icon": "http://d1h06o39vyn1mi.cloudfront.net/product/config/occasion/cocktailparty_big.png",
+                                                     "filter_value_id": "694"
+                                                     }],
+                                   "condition_id": "90001",
+                                   "condition_name": "Formal"
+                                   }, {
+                                   "filter_values": [{
+                                                     "filter_value_name": "Casual Event",
+                                                     "icon": "http://d1h06o39vyn1mi.cloudfront.net/product/config/occasion/casualevent_big.png",
+                                                     "filter_value_id": "65"
+                                                     }, {
+                                                     "filter_value_name": "Weekends",
+                                                     "icon": "http://d1h06o39vyn1mi.cloudfront.net/product/config/occasion/weekends_big.png",
+                                                     "filter_value_id": "74"
+                                                     }, {
+                                                     "filter_value_name": "Beach Outing",
+                                                     "icon": "http://d1h06o39vyn1mi.cloudfront.net/product/config/occasion/beachouting_big.png",
+                                                     "filter_value_id": "79"
+                                                     }, {
+                                                     "filter_value_name": "Garden Picnic",
+                                                     "icon": "http://d1h06o39vyn1mi.cloudfront.net/product/config/occasion/picnic_big.png",
+                                                     "filter_value_id": "80"
+                                                     }, {
+                                                     "filter_value_name": "Outdoors",
+                                                     "icon": "http://d1h06o39vyn1mi.cloudfront.net/product/config/occasion/outdoors_big.png",
+                                                     "filter_value_id": "85"
+                                                     }],
+                                   "condition_id": "90003",
+                                   "condition_name": "Casual"
+                                   }, {
+                                   "filter_values": [{
+                                                     "filter_value_name": "Party",
+                                                     "icon": "http://d1h06o39vyn1mi.cloudfront.net/product/config/occasion/party_big.png",
+                                                     "filter_value_id": "69"
+                                                     }, {
+                                                     "filter_value_name": "Meet The Parents",
+                                                     "icon": "http://d1h06o39vyn1mi.cloudfront.net/product/config/occasion/meettheparents_big.png",
+                                                     "filter_value_id": "73"
+                                                     }, {
+                                                     "filter_value_name": "Date Night",
+                                                     "icon": "http://d1h06o39vyn1mi.cloudfront.net/product/config/occasion/datenight_big.png",
+                                                     "filter_value_id": "75"
+                                                     }, {
+                                                     "filter_value_name": "Casual Friday",
+                                                     "icon": "http://d1h06o39vyn1mi.cloudfront.net/product/config/occasion/casualfriday_big.png",
+                                                     "filter_value_id": "77"
+                                                     }, {
+                                                     "filter_value_name": "Casual Wedding",
+                                                     "icon": "http://d1h06o39vyn1mi.cloudfront.net/product/config/occasion/casualwedding_big.png",
+                                                     "filter_value_id": "83"
+                                                     }],
+                                   "condition_id": "90002",
+                                   "condition_name": "Smart Casual"
+                                   }, {
+                                   "filter_values": [{
+                                                     "filter_value_name": "Daily Work",
+                                                     "icon": "http://d1h06o39vyn1mi.cloudfront.net/product/config/occasion/dailywork_big.png",
+                                                     "filter_value_id": "76"
+                                                     }, {
+                                                     "filter_value_name": "Interview",
+                                                     "icon": "http://d1h06o39vyn1mi.cloudfront.net/product/config/occasion/interviews_big.png",
+                                                     "filter_value_id": "698"
+                                                     }, {
+                                                     "filter_value_name": "Meeting",
+                                                     "icon": "http://d1h06o39vyn1mi.cloudfront.net/product/config/occasion/meetings_big.png",
+                                                     "filter_value_id": "699"
+                                                     }],
+                                   "condition_id": "90004",
+                                   "condition_name": "Workwear"
+                                   }],
+        "text": {
+            "new_find_place_holder": "Enter clothes type",
+            "search_keyword_hint": "Bodycon Skirt"
+        },
+        "demo_products": [{
+                          "id": "2358051",
+                          "category": "18",
+                          "sub_category": "199",
+                          "image_height": 1101,
+                          "image_width": 750,
+                          "shop_url": "http://www.forever21.com/Product/Product.aspx?BR=f21&Category=top_blouses&ProductID=2000078773&VariantID=02",
+                          "price": -1,
+                          "image": "http://d1h06o39vyn1mi.cloudfront.net/product/display/full/44/6e/446eecf0d1691ea1560762a255d21bd1d230fa30.jpg",
+                          "brand_id": "80",
+                          "discount_percent": 0,
+                          "tryon_status": 1,
+                          "brand_info": {
+                          "status": 1,
+                          "id": "80",
+                          "weight": 997,
+                          "name": "Forever 21",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/forever_21_2.png"
+                          },
+                          "color_value": "e9b0b0",
+                          "currency": "SGD",
+                          "name": "Contemporary Eyelash Lace Halter Top",
+                          "original_price": -1
+                          }, {
+                          "id": "2335903",
+                          "category": "19",
+                          "sub_category": "207",
+                          "image_height": 1125,
+                          "image_width": 750,
+                          "shop_url": "http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000151385&VariantID=01",
+                          "price": -1,
+                          "image": "http://d1h06o39vyn1mi.cloudfront.net/product/display/full/17/0f/170f70868231d0b7d55ce949f71fc0f5d59b94be.jpg",
+                          "brand_id": "80",
+                          "discount_percent": 0,
+                          "tryon_status": 1,
+                          "brand_info": {
+                          "status": 1,
+                          "id": "80",
+                          "weight": 997,
+                          "name": "Forever 21",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/forever_21_2.png"
+                          },
+                          "color_value": "4f4f4f",
+                          "currency": "SGD",
+                          "name": "Pleated Mini Skater Skirt",
+                          "original_price": -1
+                          }, {
+                          "id": "2356413",
+                          "category": "21",
+                          "sub_category": "583",
+                          "image_height": 1125,
+                          "image_width": 750,
+                          "shop_url": "http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000168049&VariantID=01",
+                          "price": -1,
+                          "image": "http://d1h06o39vyn1mi.cloudfront.net/product/display/full/bc/d2/bcd2101ec2374435559b044b238804258808691b.jpg",
+                          "brand_id": "80",
+                          "discount_percent": 0,
+                          "tryon_status": 1,
+                          "brand_info": {
+                          "status": 1,
+                          "id": "80",
+                          "weight": 997,
+                          "name": "Forever 21",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/forever_21_2.png"
+                          },
+                          "color_value": "567dbe",
+                          "currency": "SGD",
+                          "name": "Contemporary Distressed Jeans",
+                          "original_price": -1
+                          }, {
+                          "id": "2365520",
+                          "category": "18",
+                          "sub_category": "194",
+                          "image_height": 570,
+                          "image_width": 570,
+                          "shop_url": "http://www.uniqlo.com/sg/store/women-extra-fine-cotton-oversized-striped-long-sleeve-shirt-1803920001.html",
+                          "price": 3990,
+                          "image": "http://d1h06o39vyn1mi.cloudfront.net/product/display/full/dc/92/dc92cfac0c386eff233faa02598bad45e55d3fde.jpg",
+                          "brand_id": "56",
+                          "discount_percent": 0,
+                          "tryon_status": 1,
+                          "brand_info": {
+                          "status": 1,
+                          "id": "56",
+                          "weight": 994,
+                          "name": "Uniqlo",
+                          "logo": "http://d1h06o39vyn1mi.cloudfront.net/product/config/brand/uniqlo_2.png"
+                          },
+                          "color_value": "567dbe",
+                          "currency": "SGD",
+                          "name": "WOMEN Extra Fine Cotton Oversized Striped Long Sleeve Shirt",
+                          "original_price": 3990
+                          }],
+        "web_url": {
+            "terms": "http://m.deja.me/portal/?v4_1_3#/appterms/",
+            "style_book": "{domain}/dejafm{rc}/?v4_1_3#/stylebook/",
+            "order_history": "{domain}/dejafm{rc}/?v4_1_3#/orderhistory/",
+            "invite_friends": "{domain}/dejafm{rc}/?v4_1_3#/invite/",
+            "cloth_detail": "{domain}/dejafm{rc}/?v4_1_3#/cloth/id={cloth_id}",
+            "inspiration_detail": "{domain}/dejafm{rc}/?v4_1_3#/inspiredetail/id={inspiration_id}",
+            "shopping_cart": "{domain}/dejafm{rc}/?v4_1_3#/shoppingcart/",
+            "product_detail": "{domain}/dejafm{rc}/?v4_1_3#/product/id={product_id}",
+            "message_list": "{domain}/dejafm{rc}/?v4_1_3#/messagelist/",
+            "homepage_guide": "{domain}/dejafm{rc}/?v4_1_4#/homepageguide/",
+            "inspiration": "{domain}/dejafm{rc}/?v4_1_3#/inspiration/id=576764f8cf5acd8a01c96715",
+            "mash_up": "{domain}/dejafm{rc}/?v4_1_3#/mashup/",
+            "shared_mission_url": "{domain}/dejafm{rc}/?v4_1_3#/missionstyling/id={uid}",
+            "edit_mission_outfit": "{domain}/dejafm{rc}/?v4_1_3#/editmissionoutfit/id={mission_outfit_id}",
+            "renew_mission_outfit": "{domain}/dejafm{rc}/?v4_1_3#/renewmissionoutfit/mission_id={mission_id}&outfit_id={outfit_id}",
+            "mission_list": "{domain}/dejafm{rc}/?v4_1_3#/mymissions/",
+            "outfits": "{domain}/dejafm{rc}/?v4_1_3#/outfits/",
+            "shop_location": "{domain}/dejafm{rc}/?v4_1_4#/shoplocation/id={product_id}&olshop={ol_shop}"
+        }
+    },
+    "versions": {
+        "cloth_color": 3,
+        "feedback_email": 14,
+        "interval": 2,
+        "offline_events": 3,
+        "patch_info": 76,
+        "find_cloth_banner": 18,
+        "celebrity_face": 1,
+        "purpose": 1,
+        "sort_by_rules": 1,
+        "style_refine_condition": 11,
+        "category_filter": 21,
+        "text": 4,
+        "product_brand": 5,
+        "demo_products": 2,
+        "web_url": 19
+    },
+    "msg": "OK",
+    "ret": 0
+}

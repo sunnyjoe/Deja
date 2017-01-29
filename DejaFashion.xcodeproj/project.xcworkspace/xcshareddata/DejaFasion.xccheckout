@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2142C327-CFB0-4452-9885-045B1C8D1C5A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DejaFasion</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>23D5C70CB9EDBD1263CCB6FD676B12CCE33E93F3</key>
+		<string>ssh://local109hg/git-deja/client/deja-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DejaFasion.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>23D5C70CB9EDBD1263CCB6FD676B12CCE33E93F3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://local109hg/git-deja/client/deja-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>23D5C70CB9EDBD1263CCB6FD676B12CCE33E93F3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>23D5C70CB9EDBD1263CCB6FD676B12CCE33E93F3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>deja-fashion</string>
+		</dict>
+	</array>
+</dict>
+</plist>

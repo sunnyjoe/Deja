@@ -1,0 +1,7 @@
+#### 2016.09.23
+##### 1.New Implementation
+
+
+##### 2.Bug fix
+- DEJA-329 (Crash: 20160923 15:31) Me-> change avatar via album/photo-> crash
+- Find clothes-> Preference: Locate items near me->“Don’t allow to use location”->still displayed “Locate items near me”-> still chose “Please choose one” as red text

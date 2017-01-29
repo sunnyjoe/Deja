@@ -1,0 +1,70 @@
+{
+    "data": [
+             {
+             "id" : "02",
+             "clotheInfo": "Sleeveless dress",
+             },
+             {
+             "id" : "01",
+             "clotheInfo": "Short-sleeve dress",
+             },
+             {
+             "id" : "03",
+             "clotheInfo": "Long-sleeve dress",
+             },
+             {
+             "id" : "09",
+             "clotheInfo": "Spaghetti-strap/tank top",
+             },
+             {
+             "id" : "12",
+             "clotheInfo": "Sleeveless tops",
+             },
+             {
+             "id" : "10",
+             "clotheInfo": "Short-sleeve tops",
+             },
+             {
+             "id" : "11",
+             "clotheInfo": "Long-sleeve tops",
+             },
+             {
+             "id" : "07",
+             "clotheInfo": "Regular outwear",
+             },
+             {
+             "id" : "08",
+             "clotheInfo": "Long outwear",
+             },
+             {
+             "id" : "05",
+             "clotheInfo": "Skirt (Fitted)",
+             },
+             {
+             "id" : "04",
+             "clotheInfo": "Skirt (A-line)",
+             },
+             {
+             "id" : "06",
+             "clotheInfo": "Maxi skirt",
+             },
+             
+             {
+             "id" : "15",
+             "clotheInfo": "Shorts",
+             },
+             {
+             "id" : "13",
+             "clotheInfo": "Pants",
+             },
+             {
+             "id" : "14",
+             "clotheInfo": "Culottes",
+             },
+             
+             {
+             "id" : "16",
+             "clotheInfo": "One-piece",
+             }
+             ]
+}

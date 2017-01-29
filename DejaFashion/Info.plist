@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${APP_DISPLAY_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>5.0.1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.mozat.dejafashion</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb610039479101194</string>
+				<string>dejafashion</string>
+				<string>wx4481bed8daf8c2cc</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.taplytics</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>tl-fca1026d</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>201609231655</string>
+	<key>FacebookAppID</key>
+	<string>610039479101194</string>
+	<key>FacebookDisplayName</key>
+	<string>Deja</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>instagram</string>
+		<string>fbapi</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+		<string>fb-messenger-api</string>
+		<string>twitter</string>
+		<string>whatsapp</string>
+		<string>weixin</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Used to scan price tag</string>
+	<key>NSContactsUsageDescription</key>
+	<string>For add friends</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>For push nearby cloth</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>For nearby</string>
+	<key>NSMotionUsageDescription</key>
+	<string>For animation effect</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Used to get photo </string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>SEGOEPR.TTF</string>
+	</array>
+	<key>UIApplicationShortcutItems</key>
+	<array>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>HomePageSearchIcon</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Find by Keywords</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>dejafashion://searchClothes</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>HomePageCameraIcon</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Find by Photo</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>dejafashion://searchByPhoto</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>HomePageBrandIcon</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Find by Brands</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>dejafashion://findByBrands</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>HomePageScanIcon</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Find by Price tag</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>dejafashion://scanPriceTag</string>
+		</dict>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>location</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>Launch Screen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+</dict>
+</plist>
